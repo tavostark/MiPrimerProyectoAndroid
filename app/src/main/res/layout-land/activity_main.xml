@@ -26,7 +26,7 @@
         android:text="@string/app_entrar"
         android:id="@+id/button"
         android:textColor="@android:color/white"
-        android:background="#e63ca3fe"
+        android:background="@drawable/button"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
         android:singleLine="false"

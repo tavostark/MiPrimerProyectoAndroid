@@ -26,8 +26,8 @@
         android:text="@string/app_entrar"
         android:id="@+id/button"
         android:textColor="@android:color/white"
-        android:background="#e63ca3fe"
-        android:textSize="@dimen/abc_action_bar_stacked_max_height"
+        android:background="@drawable/button"
+        android:textSize="@dimen/abc_text_size_display_3_material"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>

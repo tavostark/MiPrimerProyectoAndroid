@@ -26,10 +26,12 @@
         android:layout_height="wrap_content"
         android:text="@string/app_entrar"
         android:id="@+id/button"
+        android:background="@drawable/button"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="77dp"
-        android:textColor="@android:color/white"
-        android:background="#e63ca3fe"
-        android:textSize="@dimen/abc_action_bar_progress_bar_size" />
+        android:layout_marginTop="274dp"
+        android:textSize="@dimen/abc_text_size_display_2_material" />
+
 </RelativeLayout>
