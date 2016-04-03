@@ -26,11 +26,10 @@
         android:layout_height="wrap_content"
         android:text="@string/app_entrar"
         android:id="@+id/button"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="77dp"
+        android:layout_marginTop="60dp"
         android:textColor="@android:color/white"
-        android:layout_margin="@dimen/activity_horizontal_margin"
-        android:background="#e63ca3fe" />
+        android:background="#e63ca3fe"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
